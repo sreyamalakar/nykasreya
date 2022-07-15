@@ -1,0 +1,131 @@
+body{
+  background-color: #fecdfe;
+}
+.heading{
+  position:fixed;
+  width:60%;
+  margin-left: 20px;
+  top: 0;
+}
+.heading1{
+  float: right;
+  list-style: none;
+  margin:6px 30px auto 30px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.h{
+  font-size:27px;
+  color: #d41f6a;
+  font-family: 'Cormorant SC', serif;
+  font-family: 'Edu QLD Beginner', cursive;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+.heading2{
+  width:85%;
+  margin-left: 20px;
+  padding-top: 70px;
+}
+.h1{
+  float:left;
+  list-style: none;
+  margin-right:50px;
+  font-size: 15px;
+  color:#898989;
+  margin-bottom:30px;
+}
+.midd{
+  width:90%;
+  margin: 30px 80px 30px 80px;
+}
+.midd11{
+  width:100%;
+}
+.h1:hover{
+  font-size:25px;
+  color:#7b043f;
+  font-weight: bold;
+}
+.heading3{
+  background-image: url("mayb.png");
+  font-size: 50px;
+  padding:90px;
+  background-repeat:no-repeat;
+  background-size: 1590px 450px;
+  margin-bottom:0px;
+}
+.a{
+  border-style:none;
+    border-top-style:dotted;
+    border-color: #01140D;
+    border-width: 4px;
+    width:4%;
+    margin:100px auto;
+}
+.head{
+  margin-top:200px;
+  margin-left: 650px;
+  font-weight: bold;
+}
+.midd2{
+  width:90%;
+  margin-left:80px;
+  margin-right: 80px;
+  margin-top:40px;
+}
+h2{
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Cormorant SC', serif;
+font-family: 'Edu QLD Beginner', cursive;
+font-family: 'Edu VIC WA NT Beginner', cursive;
+font-family: 'Oswald', sans-serif;
+}
+.a1{
+  text-decoration: none;
+  font-size: 30px;
+  font-weight: bold;
+  color: #000000;
+}
+.a1:hover{
+  font-size: 40px;
+  box-shadow: 12px 12px 12px 12px #a30aa8;
+  text-shadow: 1px 1px 2px #a30aa8;
+  background-color: #a30aa8;
+
+}
+.midd2{
+  text-align: center;
+}
+.a2:hover{
+  box-shadow: 12px 12px 12px 12px #fc2779;
+  width:660px;
+  height:470px;
+}
+.foot{
+  background-color: #312d31;
+  color: #ffffff;
+}
+p{
+  font-size: 20px;
+  font-weight: bold;
+}
+.foot1{
+  background-color: #fc2779;
+  color:#ffffff;
+}
+.foot2{
+  width:70%;
+  margin:auto;
+  font-size: 18px;
+}
+.foot3{
+  text-align:center;
+  font-size: 25px;
+  font-weight: bold;
+}
+.head{
+  font-size: 40px;
+  font-weight: bold;
+}
